@@ -1,4 +1,4 @@
-# TextToImage#
+# TextToImage
 
 Example results:
 
